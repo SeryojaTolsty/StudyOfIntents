@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudyOfIntents</string>
+    <string name="send">send message</string>
+    <string name="hint">write ur text here</string>
+</resources>
