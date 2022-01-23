@@ -10,8 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StudyOfIntents">
         <activity
-            android:name=".RecieveMessageActivity"
-            android:exported="false" />
+            android:name=".RecieveMessageActivity" />
         <activity
             android:name=".CreateMessageActivity"
             android:exported="true">
